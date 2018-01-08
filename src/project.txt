@@ -1,0 +1,9 @@
+Project Components
+1. Staff Directory
+2. Sort Staff by subject/area
+3. Search bar
+4. Staff members- Name, Subject, room, phone, email
+5. Style match-up
+6. Error catching
+7. Not found
+8. Important Information- School Hours, Bell Schedule
